@@ -12,7 +12,7 @@ if __name__ == '__main__':
 
     projects = {'PDM Report':1,'Brio to SSRS':2,'CPE -NA':3,'CPE- SAPL':4,'Evergreen':5,'QV Monitoring':6,'QV-Power BI':7,'WebFocus':8,
                 'IICE':9,'Sales Cube':10,'DMM':11,'Learning':12,'Cognos-PBI':13,'IO Modelling':14,'FIDO':15,'DBA':16,'Bedrock':17}
-    receipient = 'akshay.telkar@intimetec.com'
+    receipient = 'prasun.singh@intimetec.com'
 
     window = Tk()
     view.createwindowpane(window)
